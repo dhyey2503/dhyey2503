@@ -24,6 +24,18 @@
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
   <!-- Languages -->
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -111,6 +123,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56cc9d&height=100&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20" />
 </p>
-
----
-
