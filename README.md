@@ -11,45 +11,6 @@
 
 ---
 
-### 🚀 Projects I've Built
-
----
-
-#### 💡 3D_LightingRoom  
-A 3D web-based lighting simulation tool inspired by DIALux.
-
----
-
-#### 🥗 NutriGenius  
-AI-powered assistant for personalized meal plans and nutrition.
-
----
-
-#### 📈 Stock Market Analytics  
-Forecasting & sentiment analysis dashboard for stock market insights.
-
----
-
-#### 🏏 Cricket Predictor  
-ML-powered system to predict cricket performance metrics.
-
----
-
-#### 🌐 Virtual Community Support System (VCSS)  
-An innovative platform to connect users to local support services.
-
----
-
-#### ✨ GlowScape Website  
-Showcase website for lighting product lines with an elegant UI.
-
----
-
-#### 🚗 Automobile Sales Dashboard  
-Interactive dashboard to analyze and forecast automobile sales using Dash and Prophet.
-
----
-
 ### 🧰 Tech Stack & Libraries Used
 
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
