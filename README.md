@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 🎓 Highly motivated Computer Science and Engineering student with a strong academic foundation and a passion for technology.  
 💡 Strong communication, leadership, and teamwork skills, complemented by a keen interest in staying updated with emerging technologies.  
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Tech Stack & Libraries Used
+###  Tech Stack & Libraries Used
 
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
