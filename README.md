@@ -87,7 +87,7 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:jrshah2002@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="mailto:jrshah2003@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="32" height="32"/>
   </a>
   <a href="https://www.linkedin.com/in/dhyeyshah" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
