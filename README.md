@@ -11,6 +11,14 @@
 
 ---
 
+### 👨‍💻 About Me
+
+🎓 Highly motivated Computer Science and Engineering student with a strong academic foundation and a passion for technology.  
+💡 Strong communication, leadership, and teamwork skills, complemented by a keen interest in staying updated with emerging technologies.  
+🚀 Seeking opportunities to apply my knowledge and contribute to innovative projects and work in the field of computer science and engineering.
+
+---
+
 ### 🧰 Tech Stack & Libraries Used
 
 <p align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
@@ -90,7 +98,7 @@
   <a href="mailto:jrshah2003@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="32" height="32"/>
   </a>
-  <a href="https:www.linkedin.com/in/dhyey-shah/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="https:www.linkedin.com/in/dhyey-shah" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
   <a href="https://instagram.com/dhyey_2503" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
