@@ -90,7 +90,7 @@
   <a href="mailto:jrshah2003@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" width="32" height="32"/>
   </a>
-  <a href="https://www.linkedin.com/in/dhyeyshah" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+  <a href="https:www.linkedin.com/in/dhyey-shah-0637a0285/" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
   <a href="https://instagram.com/dhyey_2503" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
