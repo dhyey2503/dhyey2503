@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Code | Build | Analyze | Create</b><br>
-  <i>Developer | AI Enthusiast | Data Explorer | Tech Visionary</i>
+  <i>Developer | AI Enthusiast | Data Explorer | Mainframe Explorer | Tech Visionary</i>
 </p>
 
 ---
@@ -100,6 +100,27 @@
   <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
     <img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   </a>
+
+  <!-- Mainframe -->
+  <a href="https://www.ibm.com/it-infrastructure/z" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/IBM%20z%2FOS-000000?logo=ibm&logoColor=white" alt="IBM z/OS" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Job_Control_Language" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/JCL-1A73E8?logo=ibm&logoColor=white" alt="JCL" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/COBOL-00427E?logo=ibm&logoColor=white" alt="COBOL" height="40"/>
+  </a>
+  <a href="https://www.ibm.com/db2" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/DB2-0066CC?logo=ibm&logoColor=white" alt="DB2" height="40"/>
+  </a>
+  <a href="https://www.ibm.com/cics" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/CICS-grey?logo=ibm&logoColor=white" alt="CICS" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VSAM" target="_blank" rel="noopener noreferrer" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/VSAM-orange?logo=ibm&logoColor=white" alt="VSAM" height="40"/>
+  </a>
+
 </p>
 
 ---
